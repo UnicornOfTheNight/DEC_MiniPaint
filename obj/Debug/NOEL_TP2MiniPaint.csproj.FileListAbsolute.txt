@@ -1,0 +1,19 @@
+D:\Bureau\DEC\SESSION 2\Structure de donnees\NOEL_TP2MiniPaint\bin\Debug\NOEL_TP2MiniPaint.exe.config
+D:\Bureau\DEC\SESSION 2\Structure de donnees\NOEL_TP2MiniPaint\bin\Debug\NOEL_TP2MiniPaint.exe
+D:\Bureau\DEC\SESSION 2\Structure de donnees\NOEL_TP2MiniPaint\bin\Debug\NOEL_TP2MiniPaint.pdb
+D:\Bureau\DEC\SESSION 2\Structure de donnees\NOEL_TP2MiniPaint\obj\Debug\NOEL_TP2MiniPaint.MiniPaint.resources
+D:\Bureau\DEC\SESSION 2\Structure de donnees\NOEL_TP2MiniPaint\obj\Debug\NOEL_TP2MiniPaint.Properties.Resources.resources
+D:\Bureau\DEC\SESSION 2\Structure de donnees\NOEL_TP2MiniPaint\obj\Debug\NOEL_TP2MiniPaint.csproj.GenerateResource.cache
+D:\Bureau\DEC\SESSION 2\Structure de donnees\NOEL_TP2MiniPaint\obj\Debug\NOEL_TP2MiniPaint.exe
+D:\Bureau\DEC\SESSION 2\Structure de donnees\NOEL_TP2MiniPaint\obj\Debug\NOEL_TP2MiniPaint.pdb
+D:\Bureau\DEC\SESSION 2\Structure de donnees\NOEL_TP2MiniPaint\obj\Debug\NOEL_TP2MiniPaint.csprojAssemblyReference.cache
+C:\Users\maeva\OneDrive\Bureau\NOEL_MiniPaint\NOEL_TP2MiniPaint\bin\Debug\NOEL_TP2MiniPaint.exe.config
+C:\Users\maeva\OneDrive\Bureau\NOEL_MiniPaint\NOEL_TP2MiniPaint\bin\Debug\NOEL_TP2MiniPaint.exe
+C:\Users\maeva\OneDrive\Bureau\NOEL_MiniPaint\NOEL_TP2MiniPaint\bin\Debug\NOEL_TP2MiniPaint.pdb
+C:\Users\maeva\OneDrive\Bureau\NOEL_MiniPaint\NOEL_TP2MiniPaint\obj\Debug\NOEL_TP2MiniPaint.csprojAssemblyReference.cache
+C:\Users\maeva\OneDrive\Bureau\NOEL_MiniPaint\NOEL_TP2MiniPaint\obj\Debug\NOEL_TP2MiniPaint.MiniPaint.resources
+C:\Users\maeva\OneDrive\Bureau\NOEL_MiniPaint\NOEL_TP2MiniPaint\obj\Debug\NOEL_TP2MiniPaint.Properties.Resources.resources
+C:\Users\maeva\OneDrive\Bureau\NOEL_MiniPaint\NOEL_TP2MiniPaint\obj\Debug\NOEL_TP2MiniPaint.csproj.GenerateResource.cache
+C:\Users\maeva\OneDrive\Bureau\NOEL_MiniPaint\NOEL_TP2MiniPaint\obj\Debug\NOEL_TP2MiniPaint.csproj.CoreCompileInputs.cache
+C:\Users\maeva\OneDrive\Bureau\NOEL_MiniPaint\NOEL_TP2MiniPaint\obj\Debug\NOEL_TP2MiniPaint.exe
+C:\Users\maeva\OneDrive\Bureau\NOEL_MiniPaint\NOEL_TP2MiniPaint\obj\Debug\NOEL_TP2MiniPaint.pdb
